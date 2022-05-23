@@ -6,3 +6,5 @@ Library     DateTime
 Library     String
 Resource    ../keywords/common.robot
 Resource    ../resources/configs.robot
+Resource    ../resources/testdata/locators.robot
+Resource    ../resources/testdata/variables.robot
